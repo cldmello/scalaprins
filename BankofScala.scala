@@ -1,5 +1,5 @@
 import main.scala.com.h2.entities.Product
-import main.scala.com.h2.entities.Customer
+import main.scala.com.h2.entities.Bank
 import main.scala.com.h2.entities.Account
 
 object BankofScala {
